@@ -1,0 +1,9 @@
+.question{
+    width:280px;
+    height:160px;
+    margin: 15px;
+    border:1px solid #0a53be;
+    background-color: #71a2f1;
+    display: inline-block;
+    text-align:center
+}

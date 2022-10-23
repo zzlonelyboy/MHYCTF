@@ -1,0 +1,28 @@
+.head {
+    padding: 100px;
+    text-align: center;
+    position: absolute;
+    left: 240px;
+    right: 200px;
+    top:-10px;
+    color: #d7acac;
+}
+
+.colorful{
+    background-image:
+        -webkit-gradient( linear, left top, right top, color-stop(0, #f22),
+        color-stop(0.1, #f2f),
+        color-stop(0.2, #22f),
+        color-stop(0.3, #2ff),
+        color-stop(0.4, #2f2),
+        color-stop(0.5, #2f2),
+        color-stop(0.6, #ff2),
+        color-stop(0.7, #f22) );
+    color: transparent;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -ms-background-clip: text
+}
+
+*{padding:0;margin:0}
+html{overflow:hidden}

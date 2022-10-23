@@ -1,0 +1,14 @@
+.side1 {
+    -ms-flex: 70%; /* IE10 */
+    flex: 70%;
+    background-color: #d7c6c6;
+    padding: 20px;
+}
+
+/* 主要的内容区域 */
+.main1 {
+    -ms-flex: 30%; /* IE10 */
+    flex: 30%;
+    background-color: #c9d0be;
+    padding: 20px;
+}
